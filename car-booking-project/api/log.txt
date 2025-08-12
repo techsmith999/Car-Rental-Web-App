@@ -1,0 +1,11 @@
+MerchantRequestID: a71d-4f69-bf89-6e6da87fe1e318717
+ResultCode: 0
+ResultDesc: The service request is processed successfully
+
+MerchantRequestID: a71d-4f69-bf89-6e6da87fe1e318749
+ResultCode: 1037
+ResultDesc: No response from user
+
+Saved to DB: ws_CO_060820251244379718366047
+Saved to DB: ws_CO_060820251245533718366047
+Saved to DB: ws_CO_060820251248455718366047

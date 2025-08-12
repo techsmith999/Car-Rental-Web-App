@@ -1,0 +1,16 @@
+2025-08-07 17:12:33 - {
+            "MerchantRequestID":"cb81-4fb1-82b1-057f3b6d21d930492",
+            "CheckoutRequestID":"ws_CO_070820251812313718366047",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
+2025-08-07 17:17:05 - {
+            "MerchantRequestID":"cb81-4fb1-82b1-057f3b6d21d930520",
+            "CheckoutRequestID":"ws_CO_070820251817027718366047",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
