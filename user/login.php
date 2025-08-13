@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     if (response === "success") {
                         $("#loginSuccess").removeClass("d-none").text("Login successful! Redirecting...");
                         $("#loginError").addClass("d-none");
-                        setTimeout(() => window.location.href = "index.php", 2000);
+                        setTimeout(() => window.location.href = "home.php", 2000);
                     } else {
                         $("#loginError").removeClass("d-none").text(response);
                         $("#loginSuccess").addClass("d-none");
